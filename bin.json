@@ -1,8 +1,19 @@
-[	{	"text1":"Batt Temp High"	,	"text2":"Possible Cause \n The ambient temperature is high. \nThe battery terminal is not tightened.\n Procedure \n Restore the temperature to normal and check whether the alarm is cleared. If yes, no further action is required. Replace the battery temperature sensor with a new one and check whether the alarm is cleared. If yes, no further action is required. Replace the battery with a new one and check whether the alarm is cleared. If yes, no further action is required."	},
+[	
+
+
+{	"text1":"Batt Temp High"	,	"text2":"Possible Cause \n The ambient temperature is high. \nThe battery terminal is not tightened.\n Procedure \n Restore the temperature to normal and check whether the alarm is cleared. If yes, no further action is required. Replace the battery temperature sensor with a new one and check whether the alarm is cleared. If yes, no further action is required. Replace the battery with a new one and check whether the alarm is cleared. If yes, no further action is required."	},
 	{	"text1":"HI"	,	"text2":"Hello"	},
 	{	"text1":"Bye"	,	"text2":"HI"	},
-	{	"text1":"Oh NO"	,	"text2":"Oh yes"	},
+	{	"text1":"Oh NO"	,	"text2":"Oh yes"},
+{	"text1":"Oh NO"	,	"text2":"Oh yes"},
+{	"text1":"Oh NO"	,	"text2":"Oh yes"},
+{	"text1":"Oh NO"	,	"text2":"Oh yes"},
+{	"text1":"Oh NO"	,	"text2":"Oh abcd yes"},
+{	"text1":"Oh NO"	,	"text2":"Oh efgh yes"},
+{	"text1":"Oh NO"	,	"text2":"Oh yes"},
+{	"text1":"Oh NO"	,	"text2":"Oh ijkl yes"},
+{	"text1":"Oh NO"	,	"text2":"Oh yes"},
 	{	"text1":"Hello"	,	"text2":"zero"	}
 					
 				
-]					
+]
